@@ -27,8 +27,8 @@ function App() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-        <h1>Hola desde Netlify con despliegue continuo</h1>
-        <h3 className="mb-4 text-center">Iniciar Sesión</h3>
+        
+        <h3 className="mb-4 text-center">Iniciar Sesión Hola desde Netlify con despliegue continuo</h3>
         <input
           className="form-control mb-3"
           placeholder="Usuario"
